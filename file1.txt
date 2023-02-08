@@ -1,2 +1,3 @@
 welcome to AWS cloud
 i am learnig devopsgit 
+I have learnt GIT
