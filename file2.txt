@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream
+
 hhhhh
-=======
 welcome to google cloudls
 added line 2
 added line 3
->>>>>>> Stashed changes
+
