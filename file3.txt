@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 welcome to AWS class
 
+=======
+feature-dev1
+>>>>>>> feature-dev1
