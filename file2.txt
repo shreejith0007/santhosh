@@ -1,1 +1,2 @@
-Welcome to Devops
+welcome to AWS class
+
