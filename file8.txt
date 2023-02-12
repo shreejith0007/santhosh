@@ -1,1 +1,2 @@
-file8 branch conflict
+file8.txt statement added
+
